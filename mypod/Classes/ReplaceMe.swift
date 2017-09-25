@@ -4,7 +4,7 @@ import UIKit
 
 open class Test {
 	public func testing() {
-		print("samson sunny test")
+		print("samson sunny test test2")
 	}
 	
 	public init() {}
